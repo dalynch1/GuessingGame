@@ -1,0 +1,14 @@
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\bin\Debug\net8.0\GuessaNumber.exe
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\bin\Debug\net8.0\GuessaNumber.deps.json
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\bin\Debug\net8.0\GuessaNumber.runtimeconfig.json
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\bin\Debug\net8.0\GuessaNumber.dll
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\bin\Debug\net8.0\GuessaNumber.pdb
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\obj\Debug\net8.0\GuessaNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\obj\Debug\net8.0\GuessaNumber.AssemblyInfoInputs.cache
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\obj\Debug\net8.0\GuessaNumber.AssemblyInfo.cs
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\obj\Debug\net8.0\GuessaNumber.csproj.CoreCompileInputs.cache
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\obj\Debug\net8.0\GuessaNumber.dll
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\obj\Debug\net8.0\refint\GuessaNumber.dll
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\obj\Debug\net8.0\GuessaNumber.pdb
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\obj\Debug\net8.0\GuessaNumber.genruntimeconfig.cache
+C:\Users\Darian\source\repos\GuessaNumber\GuessaNumber\obj\Debug\net8.0\ref\GuessaNumber.dll
